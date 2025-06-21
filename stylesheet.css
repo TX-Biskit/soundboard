@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial, sans-serif;
+}
+
+.pagetop {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #555;
+}
+
+.buttoncontainer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center,bottom;
+    margin-top: 20px;
+    font-size: 12px;
+    color: #777;
+}
